@@ -1,0 +1,148 @@
+{
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "Tools",
+      "spanish_translation": "Herramientas"
+    },
+    {
+      "category_id": 2,
+      "category_name": "Building Materials",
+      "spanish_translation": "Materiales de construcci\u00c3\u00b3n"
+    },
+    {
+      "category_id": 3,
+      "category_name": "Hardware and Fastening",
+      "spanish_translation": "Ferreter\u00c3\u00ada y fijaciones"
+    },
+    {
+      "category_id": 4,
+      "category_name": "Safety and Protection",
+      "spanish_translation": "Seguridad y protecci\u00c3\u00b3n"
+    },
+    {
+      "category_id": 5,
+      "category_name": "Electricity",
+      "spanish_translation": "Electricidad"
+    }
+  ],
+  "subcategories": [
+    {
+      "subcategory_id": 1,
+      "subcategory_name": "Hand Tools",
+      "category_id": 1,
+      "spanish_translation": "Herramientas manuales"
+    },
+    {
+      "subcategory_id": 2,
+      "subcategory_name": "Power Tools",
+      "category_id": 1,
+      "spanish_translation": "Herramientas el\u00c3\u00a9ctricas"
+    },
+    {
+      "subcategory_id": 3,
+      "subcategory_name": "Tool Storage",
+      "category_id": 1,
+      "spanish_translation": "Almacenamiento de herramientas"
+    },
+    {
+      "subcategory_id": 4,
+      "subcategory_name": "Lumber",
+      "category_id": 2,
+      "spanish_translation": "Madera"
+    },
+    {
+      "subcategory_id": 5,
+      "subcategory_name": "Fasteners",
+      "category_id": 2,
+      "spanish_translation": "Fijaciones"
+    },
+    {
+      "subcategory_id": 6,
+      "subcategory_name": "Adhesives and Sealants",
+      "category_id": 2,
+      "spanish_translation": "Adhesivos y selladores"
+    },
+    {
+      "subcategory_id": 7,
+      "subcategory_name": "Screws and Bolts",
+      "category_id": 3,
+      "spanish_translation": "Tornillos y pernos"
+    },
+    {
+      "subcategory_id": 8,
+      "subcategory_name": "Nails and Anchors",
+      "category_id": 3,
+      "spanish_translation": "Clavos y anclajes"
+    },
+    {
+      "subcategory_id": 9,
+      "subcategory_name": "Hinges and Brackets",
+      "category_id": 3,
+      "spanish_translation": "Herrajes y soportes"
+    },
+    {
+      "subcategory_id": 10,
+      "subcategory_name": "Hooks and Chains",
+      "category_id": 3,
+      "spanish_translation": "Ganchos y cadenas"
+    },
+    {
+      "subcategory_id": 11,
+      "subcategory_name": "Personal Protective Equipment (PPE)",
+      "category_id": 4,
+      "spanish_translation": "Equipo de protecci\u00c3\u00b3n personal (EPP)"
+    },
+    {
+      "subcategory_id": 12,
+      "subcategory_name": "Security Systems",
+      "category_id": 4,
+      "spanish_translation": "Sistemas de seguridad"
+    },
+    {
+      "subcategory_id": 13,
+      "subcategory_name": "Fire Safety Equipment",
+      "category_id": 4,
+      "spanish_translation": "Equipos de seguridad contra incendios"
+    },
+    {
+      "subcategory_id": 14,
+      "subcategory_name": "Wiring and Cables",
+      "category_id": 5,
+      "spanish_translation": "Cableado e hilos"
+    },
+    {
+      "subcategory_id": 15,
+      "subcategory_name": "Lighting",
+      "category_id": 5,
+      "spanish_translation": "Iluminaci\u00c3\u00b3n"
+    },
+    {
+      "subcategory_id": 16,
+      "subcategory_name": "Switches and Outlets",
+      "category_id": 5,
+      "spanish_translation": "Interruptores y enchufes"
+    },
+    {
+      "subcategory_id": 17,
+      "subcategory_name": "Electrical Tools and Accessories",
+      "category_id": 5,
+      "spanish_translation": "Herramientas el\u00c3\u00a9ctricas y accesorios"
+    }
+  ],
+  "products": [
+    {
+      "product_id": 1,
+      "product_name": "Martillo",
+      "description": "Martillo",
+      "subcategory_id": 1,
+      "brand": "Generico",
+      "price": 12.99,
+      "quantity": 2,
+      "supplier_id": 1,
+      "registration_date": "today",
+      "last_update_date": "today"
+    }
+  ],
+  "suppliers": []
+}
